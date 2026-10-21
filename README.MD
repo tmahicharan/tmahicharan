@@ -8,6 +8,8 @@
 🚀 AWS • DevOps • Shell scripting | Linux | Docker | Kubernetes | Terraform | Jenkins | GitHub Actions | CI/CD
 
 
+
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=flat)](https://www.linkedin.com/in/tallapalemmahicharan/)
 
 [![Gmail](https://img.shields.io/badge/Email-tmahicharan%40gmail.com-red?logo=gmail&style=flat)](mailto:tmahicharan@gmail.com)
