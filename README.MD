@@ -79,15 +79,17 @@ I'm focused on applying DevOps practices to automate workflows, improve deployme
 - 🔐 Apply AWS IAM permissions and cloud security best practices.
 - 📂 Manage source code, branches, and collaboration workflows using Git and GitHub.
 
+
 ## 📊 GitHub Statistics
 
-![GitHub Statistics](https://github-readme-stats.vercel.app/api?username=tmahicharan&show_icons=true&theme=tokyonight&hide_border=true)
+![GitHub Statistics](https://github-stats-extended.vercel.app/api?username=tmahicharan&show_icons=true&theme=tokyonight&hide_border=true)
 
-![GitHub Contribution Streak](https://github-readme-streak-stats.demolab.com/?user=tmahicharan&theme=tokyonight&hide_border=true)
+![GitHub Contribution Streak](https://streak-stats.demolab.com/?user=tmahicharan&theme=tokyonight&hide_border=true)
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tmahicharan&layout=compact&theme=tokyonight&hide_border=true)
+![Most Used Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=tmahicharan&layout=compact&theme=tokyonight&hide_border=true)
 
 ## 🐍 Contribution Snake
+
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/tmahicharan/tmahicharan/output/github-snake.svg" alt="GitHub Contribution Snake" width="100%"/>
